@@ -3,6 +3,8 @@ This repository documents my journey learning modern C++, systems concepts, and 
 
 ## Learning Resources
 - https://www.learncpp.com/
+- chapter-5
+- std::string_view  (https://claude.ai/share/43ec4e52-70ba-48bb-9ac2-1b96bede5318)
 
 ## Repository Structure
 
